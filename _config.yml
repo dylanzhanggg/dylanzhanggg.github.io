@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Los Angeles, CA"
-title                    : "Dylan (Delin) Zhang/ Ph. D. candidate"
+title                    : "Dylan (Delin) Zhang/Ph. D. candidate"
 title_separator          : "-"
 name                     : &name "Dylan (Delin) Zhang"
 description              : &description "personal description"
