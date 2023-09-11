@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Los Angeles, CA"
-title                    : "Dylan (Delin) Zhang/Ph.D. candidate"
+title                    : "Dylan (Delin) Zhang"
 title_separator          : "-"
 name                     : &name "Dylan (Delin) Zhang"
 description              : &description "Experienced Ph.D. student with 3+ years of expertise in finite element analysis, martensite theory, structural failure analysis, and code development."
