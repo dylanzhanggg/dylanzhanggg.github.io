@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Los Angeles, CA"
-title                    : "Dylan (Delin) Zhang/Ph. D. candidate"
+title                    : "Dylan (Delin) Zhang/Ph.D. candidate"
 title_separator          : "-"
 name                     : &name "Dylan (Delin) Zhang"
-description              : &description "personal description"
+description              : &description "Experienced Ph.D. student with 3+ years of expertise in finite element analysis, martensite theory, structural failure analysis, and code development."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
