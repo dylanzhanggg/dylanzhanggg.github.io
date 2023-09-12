@@ -12,7 +12,7 @@ Hello and welcome to my website. My name is Dylan (Delin) Zhang and I am a Ph. D
 
 I received my Ph.D. in [Systems Engineering](https://poly.engineering.asu.edu/engineering/phd-systems-engineering/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University. There, I researched in the field of Robotics and Dynamics for Rehabilitation Application. I was advised by [Dr. Sangram Redkar](https://isearch.asu.edu/profile/1114748) and [Dr. Thomas Sugar](https://isearch.asu.edu/profile/227786) in the [Robotics and Dynamical Systems Group](https://labs.engineering.asu.edu/rads/). I received my Master of Science (MS) degree in [Mechanical Engineering](https://semte.engineering.asu.edu/mechanical-graduate/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University and my Bachelor of Engineering (BE) Degree in Mechanical Engineering from the [University of Mumbai](http://mu.ac.in/).
 
-News
+Recent Posts
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
