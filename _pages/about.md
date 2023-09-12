@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. My name is Dylan (Delin) Zhang and I am a Ph. D. candidate in the Department of Aerospace & Mechanical Engineering at the University of Southern California (USC). My work XXX. 
+Step into my virtual realm! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. candidate in USC's Aerospace & Mechanical Engineering Department. With a strong foundation in solid mechanics, I'm delving deep into the fascinating worlds of the finite element method, phase field modeling, crystallographic theory, and structural failure analysis.
 
-I received my Ph.D. in [Systems Engineering](https://poly.engineering.asu.edu/engineering/phd-systems-engineering/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University. There, I researched in the field of Robotics and Dynamics for Rehabilitation Application. I was advised by [Dr. Sangram Redkar](https://isearch.asu.edu/profile/1114748) and [Dr. Thomas Sugar](https://isearch.asu.edu/profile/227786) in the [Robotics and Dynamical Systems Group](https://labs.engineering.asu.edu/rads/). I received my Master of Science (MS) degree in [Mechanical Engineering](https://semte.engineering.asu.edu/mechanical-graduate/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University and my Bachelor of Engineering (BE) Degree in Mechanical Engineering from the [University of Mumbai](http://mu.ac.in/).
+But that's just the tip of the iceberg! My academic journey also ventures into the electrifying domain of high-performance simulations in Computer Science, where I've mastered the arts of machine learning and the exciting world of web crawling. Fasten your seatbelt and explore my profile to discover more about my academic odyssey and the thrilling research I'm immersed in!
 
 Recent Posts
 ======
