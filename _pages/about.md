@@ -23,4 +23,4 @@ Education
 
 Recent Posts
 ======
-:lollipop: **Delin publishes his first paper in JMPS!** &nbsp;&nbsp; *Posted on 2021, Jul 12*
+:lollipop: *Posted on 2021, Jul 12* &nbsp;&nbsp; **Delin publishes his first paper in JMPS!**
