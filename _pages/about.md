@@ -23,4 +23,4 @@ Education
 
 Recent Posts
 ======
-:loudspeaker: *2021, Jul 12* &nbsp;&nbsp; **Delin publishes his first paper in JMPS!**
+&#128226; *2021, Jul 12* &nbsp;&nbsp; **Delin publishes his first paper in JMPS!**
