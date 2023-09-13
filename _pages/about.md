@@ -36,6 +36,6 @@ Recent Posts
   </tr>
   <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2021, Jul 12</span></td>
-    <td style="border: none; font-size: 1.1em;">My work "Film strains enhance the reversible cycling of intercalation electrodes"is published in JMPS!</td>
+    <td style="border: none; font-size: 1.1em;">My work "Film strains enhance the reversible cycling of intercalation electrodes" is published in JMPS!</td>
   </tr>
 </table>
