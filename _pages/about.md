@@ -12,9 +12,9 @@ Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. 
 
 ## Education
 
-- &#127891; **PhD in Modern Statistics and Statistical Machine Learning**
-  - *2020-2024*
-  - *Imperial College London*
+- &#127891; **Ph. D. candidate in Mechanical Engineering**
+  - *Aug 2020- May 2025 (expected)*
+  - *University of Southern California*
 
 - &#127891; **MASt (Part III) in Mathematical Statistics**
   - *2019-2020*
