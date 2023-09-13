@@ -23,13 +23,15 @@ Education
 
 Recent Posts
 ======
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>&#128226; 2023, May 10</td>
-    <td>I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales</td>
+    <td>&#128226;</td>
+    <td>*2023, May 10*</td>
+    <td>**I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales**</td>
   </tr>
   <tr>
-    <td>&#128226; 2021, Jul 12</td>
-    <td>I publish my first paper in JMPS!</td>
+    <td>&#128226;</td>
+    <td>*2021, Jul 12*</td>
+    <td>**Delin publishes his first paper in JMPS!**</td>
   </tr>
 </table>
