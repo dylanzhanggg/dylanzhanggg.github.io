@@ -10,11 +10,19 @@ redirect_from:
 
 Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. candidate at [Department of Aerospace & Mechanical Engineering](https://ame.usc.edu/), [University of Southern California](https://www.usc.edu/). My research is centered around computational materials, with a primary focus on finite element methods, phase field modeling, crystallographic theory, and structural failure analysis.
 
-Education
-======
-:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
-:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span class="grey">University of Cambridge</span> \
-:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span class="grey">Imperial College London</span>
+## Education
+
+- :mortar_board: **PhD in Modern Statistics and Statistical Machine Learning**
+  - *2020-2024*
+  - *Imperial College London*
+
+- :mortar_board: **MASt (Part III) in Mathematical Statistics**
+  - *2019-2020*
+  - *University of Cambridge*
+
+- :mortar_board: **BSc in Mathematics with Statistics**
+  - *2016-2019*
+  - *Imperial College London*
 
 Recent Posts
 ======
