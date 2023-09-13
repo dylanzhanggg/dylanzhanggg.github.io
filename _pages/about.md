@@ -14,6 +14,7 @@ Education
 ======
 &#127891; **Ph.D. candidate in Mechanical Engineering** 
   - *University of Southern California* (Aug 2020 - May 2025 (expected))
+  - GPA: 4.0/4.0
     
 &#127891; **M.S. in Chemical Process Equipment**
   - *Zhejiang University* (Sept 2017 - Jun 2020)
