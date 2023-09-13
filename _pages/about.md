@@ -25,11 +25,11 @@ Recent Posts
 ======
 <table>
   <tr>
-    <td>&#128226;2023, May 10</td>
-    <td>**I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales**</td>
+    <td>&#128226; 2023, May 10</td>
+    <td>I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales</td>
   </tr>
   <tr>
-    <td>&#128226;*2021, Jul 12*</td>
-    <td>**Delin publishes his first paper in JMPS!**</td>
+    <td>&#128226; 2021, Jul 12</td>
+    <td>I publish my first paper in JMPS!</td>
   </tr>
 </table>
