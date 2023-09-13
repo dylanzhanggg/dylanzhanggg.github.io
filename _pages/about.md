@@ -27,15 +27,15 @@ Recent Posts
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none; white-space: nowrap; vertical-align: top; font-size: 1.2em;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, May 10</span></td>
-    <td style="border: none; vertical-align: top; font-size: 1.2em;">I am at workshop on Data-Driven Computational Modeling of Materials Across Scales.</td>
+    <td style="border: none; white-space: nowrap; vertical-align: top;">&#128226; <span style="font-style: italic;">2023, May 10</span></td>
+    <td style="border: none; vertical-align: top;">I am at the workshop on Data-Driven Computational Modeling of Materials Across Scales.</td>
   </tr>
   <tr>
-    <td style="border: none; white-space: nowrap; vertical-align: top; font-size: 1.2em;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, Apr 11</span></td>
-    <td style="border: none; vertical-align: top; font-size: 1.2em;">My work "Designing shape-memory-like microstructures in intercalation materials" is published in Acta Materialia!</td>
+    <td style="border: none; white-space: nowrap; vertical-align: top;">&#128226; <span style="font-style: italic;">2023, Apr 11</span></td>
+    <td style="border: none; vertical-align: top;">My work "Designing shape-memory-like microstructures in intercalation materials" is published in Acta Materialia!</td>
   </tr>
   <tr>
-    <td style="border: none; white-space: nowrap; vertical-align: top; font-size: 1.2em;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2021, Jul 12</span></td>
-    <td style="border: none; vertical-align: top; font-size: 1.2em;">My work "Film strains enhance the reversible cycling of intercalation electrodes" is published in JMPS!</td>
+    <td style="border: none; white-space: nowrap; vertical-align: top;">&#128226; <span style="font-style: italic;">2021, Jul 12</span></td>
+    <td style="border: none; vertical-align: top;">My work "Film strains enhance the reversible cycling of intercalation electrodes" is published in JMPS!</td>
   </tr>
 </table>
