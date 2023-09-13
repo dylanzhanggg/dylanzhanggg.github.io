@@ -28,7 +28,7 @@ Recent Posts
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; white-space: nowrap; vertical-align: top; font-size: 1.2em;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, May 10</span></td>
-    <td style="border: none; vertical-align: top; font-size: 1.2em;">I am at Workshop on Data-Driven Computational Modeling of Materials Across Scales.</td>
+    <td style="border: none; vertical-align: top; font-size: 1.2em;">I am at workshop on Data-Driven Computational Modeling of Materials Across Scales.</td>
   </tr>
   <tr>
     <td style="border: none; white-space: nowrap; vertical-align: top; font-size: 1.2em;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, Apr 11</span></td>
