@@ -12,8 +12,8 @@ Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. 
 
 ## Education
 
-- &#127891; **Ph.D. candidate in Mechanical Engineering** 
-  - *University of Southern California* (Aug 2020 - May 2025 (expected))
+- &#127891; **Ph.D. candidate in Mechanical Engineering** (Aug 2020 - May 2025 (expected))
+  - *University of Southern California* 
   - Relevant Courses: Applied Elasticity, Thermodynamics of Materials, Mechanical Behavior of Engineering Materials, Basics of Atomistic Simulation of Materials, etc.
 
 - &#127891; **M.S. in Chemical Process Equipment** 
