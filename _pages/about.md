@@ -28,14 +28,14 @@ Recent Posts
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, May 10</span></td>
-    <td style="border: none; font-size: 1.2em;">I am at USACM Workshop.</td>
+    <td style="border: none; font-size: 1.1em;">I am at USACM Workshop.</td>
   </tr>
   <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, Apr 11</span></td>
-    <td style="border: none; font-size: 1.2em;">My work is published in Acta Materialia!</td>
+    <td style="border: none; font-size: 1.1em;">My work "Designing shape-memory-like microstructures in intercalation materials" is published in Acta Materialia!</td>
   </tr>
   <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2021, Jul 12</span></td>
-    <td style="border: none; font-size: 1.2em;">My work is published in JMPS!</td>
+    <td style="border: none; font-size: 1.1em;">My work "Film strains enhance the reversible cycling of intercalation electrodes"is published in JMPS!</td>
   </tr>
 </table>
