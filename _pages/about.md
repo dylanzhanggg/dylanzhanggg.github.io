@@ -14,12 +14,8 @@ Education
 ======
 &#127891; **Ph.D. candidate in Mechanical Engineering** (Aug 2020 - May 2025 (expected))
   - *University of Southern California*
-  - GPA: 4.0/4.0
-  - Relevant Courses: Applied Elasticity, Thermodynamics of Materials, Mechanical Behavior of Engineering Materials, Basics of Atomistic Simulation of Materials, Analysis of Algorithms, Machine Learning, etc.
-
 &#127891; **M.S. in Chemical Process Equipment** (Sept 2017 - Jun 2020)
   - *Zhejiang University*
-
 &#127891; **B.S. in Process Equipment and Control Engineering** (Sept 2013 - Jun 2017)
   - *Dalian University of Technology*
 
