@@ -26,15 +26,15 @@ Recent Posts
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;">&#128226; <span style="font-style: italic;">2023, May 10</span></td>
-    <td style="border: none;">I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales.</td>
-  </tr>
-    <tr>
-    <td style="border: none;">&#128226; <span style="font-style: italic;">2023, Apr 11</span></td>
-    <td style="border: none;">My work is published in Acta Materialia!</td>
+    <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, May 10</span></td>
+    <td style="border: none; font-size: 1.2em;">I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales.</td>
   </tr>
   <tr>
-    <td style="border: none;">&#128226; <span style="font-style: italic;">2021, Jul 12</span></td>
-    <td style="border: none;">My work is published in JMPS!</td>
+    <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2023, Apr 11</span></td>
+    <td style="border: none; font-size: 1.2em;">My work is published in Acta Materialia!</td>
+  </tr>
+  <tr>
+    <td style="border: none;">&#128226; <span style="font-style: italic; font-size: 1.2em;">2021, Jul 12</span></td>
+    <td style="border: none; font-size: 1.2em;">My work is published in JMPS!</td>
   </tr>
 </table>
