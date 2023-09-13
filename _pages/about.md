@@ -12,14 +12,14 @@ Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. 
 
 Education
 ======
-&#127891; **Ph.D. candidate in Mechanical Engineering** (Aug 2020 - May 2025 (expected))
-  - *University of Southern California*
+&#127891; **Ph.D. candidate in Mechanical Engineering** 
+  - *University of Southern California* (Aug 2020 - May 2025 (expected))
     
-&#127891; **M.S. in Chemical Process Equipment** (Sept 2017 - Jun 2020)
-  - *Zhejiang University*
+&#127891; **M.S. in Chemical Process Equipment**
+  - *Zhejiang University* (Sept 2017 - Jun 2020)
     
-&#127891; **B.S. in Process Equipment and Control Engineering** (Sept 2013 - Jun 2017)
-  - *Dalian University of Technology*
+&#127891; **B.S. in Process Equipment and Control Engineering**
+  - *Dalian University of Technology* (Sept 2013 - Jun 2017)
 
 Recent Posts
 ======
