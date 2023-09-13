@@ -21,8 +21,7 @@ Education
 &#127891; **B.S. in Process Equipment and Control Engineering**
   - *Dalian University of Technology* (Sept 2013 - Jun 2017)
 
-Recent Posts
-======
-&#128226; *2023, May 10* &nbsp;&nbsp; **I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales**
+## Recent Posts
 
-&#128226; *2021, Jul 12* &nbsp;&nbsp; **Delin publishes his first paper in JMPS!**
+- &#128226; *2023, May 10* &nbsp;&nbsp; **I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales**
+- &#128226; *2021, Jul 12* &nbsp;&nbsp; **Delin publishes his first paper in JMPS!**
