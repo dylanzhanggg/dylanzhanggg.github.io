@@ -10,16 +10,16 @@ redirect_from:
 
 Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. candidate at [Department of Aerospace & Mechanical Engineering](https://ame.usc.edu/), [University of Southern California](https://www.usc.edu/). My research is centered around computational materials, with a primary focus on finite element methods, phase field modeling, crystallographic theory, and structural failure analysis.
 
-## Education
-
-- &#127891; **Ph.D. candidate in Mechanical Engineering** (Aug 2020 - May 2025 (expected))
+Education
+======
+&#127891; **Ph.D. candidate in Mechanical Engineering** (Aug 2020 - May 2025 (expected))
   - *University of Southern California* 
   - Relevant Courses: Applied Elasticity, Thermodynamics of Materials, Mechanical Behavior of Engineering Materials, Basics of Atomistic Simulation of Materials, etc.
 
-- &#127891; **M.S. in Chemical Process Equipment** (Sept 2017 - Jun 2020)
+&#127891; **M.S. in Chemical Process Equipment** (Sept 2017 - Jun 2020)
   - *Zhejiang University*
 
-- &#127891; **B.S. in Process Equipment and Control Engineering** (Sept 2013 - Jun 2017)
+&#127891; **B.S. in Process Equipment and Control Engineering** (Sept 2013 - Jun 2017)
   - *Dalian University of Technology*
 
 Recent Posts
