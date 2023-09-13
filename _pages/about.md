@@ -12,15 +12,15 @@ Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. 
 
 ## Education
 
-- :mortar_board: **PhD in Modern Statistics and Statistical Machine Learning**
+- &#127891; **PhD in Modern Statistics and Statistical Machine Learning**
   - *2020-2024*
   - *Imperial College London*
 
-- :mortar_board: **MASt (Part III) in Mathematical Statistics**
+- &#127891; **MASt (Part III) in Mathematical Statistics**
   - *2019-2020*
   - *University of Cambridge*
 
-- :mortar_board: **BSc in Mathematics with Statistics**
+- &#127891; **BSc in Mathematics with Statistics**
   - *2016-2019*
   - *Imperial College London*
 
