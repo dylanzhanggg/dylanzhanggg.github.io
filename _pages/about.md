@@ -16,11 +16,11 @@ Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. 
   - *University of Southern California* 
   - Relevant Courses: Applied Elasticity, Thermodynamics of Materials, Mechanical Behavior of Engineering Materials, Basics of Atomistic Simulation of Materials, etc.
 
-- &#127891; **M.S. in Chemical Process Equipment** 
-  - *Zhejiang University* (Sept 2017 - Jun 2020)
+- &#127891; **M.S. in Chemical Process Equipment** (Sept 2017 - Jun 2020)
+  - *Zhejiang University*
 
-- &#127891; **B.S. in Process Equipment and Control Engineering** 
-  - *Dalian University of Technology* (Sept 2013 - Jun 2017)
+- &#127891; **B.S. in Process Equipment and Control Engineering** (Sept 2013 - Jun 2017)
+  - *Dalian University of Technology*
 
 Recent Posts
 ======
