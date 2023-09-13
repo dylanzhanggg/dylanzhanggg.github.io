@@ -27,7 +27,7 @@ Recent Posts
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic;">2023, May 10</span></td>
-    <td style="border: none;">I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales</td>
+    <td style="border: none;">I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales.</td>
   </tr>
     <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic;">2023, Apr 11</span></td>
