@@ -31,10 +31,10 @@ Recent Posts
   </tr>
     <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic;">2023, Apr 11</span></td>
-    <td style="border: none;">I publish my second paper in Acta Materialia!</td>
+    <td style="border: none;">My work is published in Acta Materialia!</td>
   </tr>
   <tr>
     <td style="border: none;">&#128226; <span style="font-style: italic;">2021, Jul 12</span></td>
-    <td style="border: none;">I publish my first paper in JMPS!</td>
+    <td style="border: none;">My paper is published in JMPS!</td>
   </tr>
 </table>
