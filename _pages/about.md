@@ -10,7 +10,10 @@ redirect_from:
 
 Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. candidate at [Department of Aerospace & Mechanical Engineering](https://ame.usc.edu/), [University of Southern California](https://www.usc.edu/). My research is centered around computational materials, with a primary focus on finite element methods, phase field modeling, crystallographic theory, and structural failure analysis.
 
-But that's just the tip of the iceberg! My academic journey also ventures into the electrifying domain of high-performance simulations in Computer Science, where I've mastered the arts of machine learning and the exciting world of web crawling. Fasten your seatbelt and explore my profile to discover more about my academic odyssey and the thrilling research I'm immersed in!
+## Education 
+:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
+:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span class="grey">University of Cambridge</span> \
+:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span class="grey">Imperial College London</span>
 
 Recent Posts
 ======
