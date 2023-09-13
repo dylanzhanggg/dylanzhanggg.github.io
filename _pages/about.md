@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. candidate at [Department of Aerospace & Mechanical Engineering](https://ame.usc.edu/), [University of Southern California](https://www.usc.edu/). My research is centered around computational materials, with a primary focus on finite element methods, phase field modeling, crystallographic theory, and structural failure analysis.
+Welcome to my website! I'm Delin (pronounced like Dylan), an enthusiastic Ph.D. candidate at [Department of Aerospace & Mechanical Engineering](https://ame.usc.edu/), [University of Southern California](https://www.usc.edu/). My research is centered around computational materials, with a primary focus on finite element methods, phase field modeling, crystallographic theory, martensite phase transformation and structural failure analysis.
 
 Education
 ======
