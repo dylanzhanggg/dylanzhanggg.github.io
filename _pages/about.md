@@ -23,5 +23,6 @@ Education
 
 ## Recent Posts
 
-- &#128226; *2023, May 10* **I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales**
-- &#128226; *2021, Jul 12* **Delin publishes his first paper in JMPS!**
+&#128226; *2023, May 10* | **I at the Workshop on Data-Driven and Computational Modeling of Materials Across Scales**
+
+&#128226; *2021, Jul 12* | **Delin publishes his first paper in JMPS!**
