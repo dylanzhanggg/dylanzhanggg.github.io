@@ -37,73 +37,72 @@ author_profile: true
   <section>
     <h2 id="mathematical-models">Mathematical models</h2>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+    
     <style>
-    /* CSS styles for your slider */
-              #slide-window {
-            position: relative;
-            width: 100%;
-            height: 350px;
-            overflow: hidden;
-            top: 0px;
-            left: 0px;
-        }
-        
-        #slides-list {
-            width: 100%;
-            height: 350px;
-            position: absolute;
-            margin: 0px;
-            padding: 0px;
-            -webkit-transform: translate3d(0px, 0px, 0px);
-            transform: translate3d(0px, 0px, 0px);
-            transition: all 0.66s ease;
-            -webkit-transition: all 0.66s ease;
-        }
-        
-        .slide {
-            list-style: none;
-            position: relative;
-            float: left;
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 350px;
-            background: #ccc;
-            text-align: center;
-            line-height: 100%;
-            background-size: cover;
-            background-position: 50% 50%;
-            color: #fff;
-            -webkit-transform: translate3d(0px, 0px, 0px);
-            -webkit-transform-style: preserve-3d;
-        }
-        
-        .nav {
-            position: relative;
-            z-index: 9;
-            top: 45%;
-            cursor: pointer;
-            color: #AAA;
-            opacity: 0.7;
-            transition: all 0.66s ease;
-            -webkit-transition: all 0.66s ease;
-        }
-        
-        .nav:hover {
-            opacity: 1.0;
-        }
-        
-        #left {
-            left: 3%;
-            float: left;
-        }
-        
-        #right {
-            right: 3%;
-            float: right;
-        }
+    #slide-window {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+    }
+    
+    #slides-list {
+        width: 100%;
+        height: 350px;
+        position: absolute;
+        margin: 0px;
+        padding: 0px;
+        -webkit-transform: translate3d(0px, 0px, 0px);
+        transform: translate3d(0px, 0px, 0px);
+        transition: all 0.66s ease;
+        -webkit-transition: all 0.66s ease;
+    }
+    
+    .slide {
+        list-style: none;
+        position: relative;
+        float: left;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 350px;
+        background: #ccc;
+        text-align: center;
+        line-height: 100%;
+        background-size: cover;
+        background-position: 50% 50%;
+        color: #fff;
+        -webkit-transform: translate3d(0px, 0px, 0px);
+        -webkit-transform-style: preserve-3d;
+    }
+    
+    .nav {
+        position: relative;
+        z-index: 9;
+        top: 45%;
+        cursor: pointer;
+        color: #AAA;
+        opacity: 0.7;
+        transition: all 0.66s ease;
+        -webkit-transition: all 0.66s ease;
+    }
+    
+    .nav:hover {
+        opacity: 1.0;
+    }
+    
+    #left {
+        left: 3%;
+        float: left;
+    }
+    
+    #right {
+        right: 3%;
+        float: right;
+    }
     </style>
-    <!-- Rest of your slider HTML and JavaScript code -->
     <div id="slide-window">
       <ol id="slides-list">
               <li class="slide" style="background-image:url(https://ananyabalakrishna.github.io/images/mathematical-models/1.png);"></li>
