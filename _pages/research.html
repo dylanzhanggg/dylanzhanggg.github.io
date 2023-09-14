@@ -34,12 +34,12 @@ author_profile: true
 </header>
 
 <main>
-    <section>
-                <h2 id="mathematical-models">Mathematical models</h2>
-        <p>
-            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
-        <style>
-        #slide-window {
+  <section>
+    <h2 id="mathematical-models">Mathematical models</h2>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+    <style>
+    /* CSS styles for your slider */
+              #slide-window {
             position: relative;
             width: 100%;
             height: 350px;
@@ -102,10 +102,9 @@ author_profile: true
             right: 3%;
             float: right;
         }
-        </style>
-        
-        
-        <div id="slide-window">
+    </style>
+    <!-- Rest of your slider HTML and JavaScript code -->
+    <div id="slide-window">
             <ol id="slides-list">
                     <li class="slide" style="background-image:url(https://ananyabalakrishna.github.io/images/mathematical-models/1.png);"></li>
                     <li class="slide" style="background-image:url(https://ananyabalakrishna.github.io/images/mathematical-models/2.png);"></li>
@@ -114,10 +113,10 @@ author_profile: true
             </ol>
             <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
             <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
-        </div>
-        
-        <script>
-        sliderJQuery = jQuery.noConflict();
+    </div>
+    <script>
+    // JavaScript code for your slider
+       sliderJQuery = jQuery.noConflict();
         sliderJQuery(function( $ ) {
             $.global = new Object();
             $.global.total = 0;
@@ -189,11 +188,11 @@ author_profile: true
               }
               resetAutoSlide();
         });
-        </script>
-        <em>We develop mathematical models, across multiple length scales, to understand fundamental material behavior.</em></p>
-        <p>In our group, we develop mathematical models, across multiple length scales, to understand fundamental material behaviour. Specifically, we are interested in developing theoretical and computational tools that predict material response to various loading conditions in phase transformation materials. These theoretical tools will guide in the discovery of materials with enhanced capabilities, and provide a systematic methodology to engineer materials from a bottom-up approach. Methods of interest to our group include, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.174120">phase-field models</a>, cohesive-zone models, molecular dynamics, and <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.043304">phase-field crystal models</a>.</p>
-    </section>
-
+    </script>
+    <em>We develop mathematical models, across multiple length scales, to understand fundamental material behavior.</em>
+    <p>In our group, we develop mathematical models, across multiple length scales, to understand fundamental material behaviour. Specifically, we are interested in developing theoretical and computational tools that predict material response to various loading conditions in phase transformation materials. These theoretical tools will guide in the discovery of materials with enhanced capabilities, and provide a systematic methodology to engineer materials from a bottom-up approach. Methods of interest to our group include, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.174120">phase-field models</a>, cohesive-zone models, molecular dynamics, and <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.043304">phase-field crystal models</a>.</p>
+</section>
+  
     <!-- Repeat the structure for other sections -->
 
 </main>
