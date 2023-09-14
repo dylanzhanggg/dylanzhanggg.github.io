@@ -37,6 +37,7 @@ author_profile: true
   <section>
 <h2 id="mathematical-models">Crystallographic design</h2>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+
 <style>
 #slide-window {
     position: relative;
@@ -70,16 +71,15 @@ author_profile: true
     background: #ccc;
     text-align: center;
     line-height: 100%;
-    background-size: cover;
+    background-size: contain;
     background-position: 50% 50%;
     color: #fff;
     -webkit-transform: translate3d(0px, 0px, 0px);
     -webkit-transform-style: preserve-3d;
 }
 
-.slide img {
-    max-width: 100%;
-    height: auto;
+.slide:first-child {
+    background-size: cover; /* Set the background size to cover for the first slide */
 }
 
 .nav {
@@ -93,8 +93,8 @@ author_profile: true
     -webkit-transition: all 0.66s ease;
 }
 
-.nav:hover { 
-  opacity: 1.0;
+.nav:hover {
+    opacity: 1.0;
 }
 
 #left {
