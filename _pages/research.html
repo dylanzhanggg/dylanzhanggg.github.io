@@ -199,6 +199,48 @@ sliderJQuery(function( $ ) {
 <section>
 <h2 id="mathematical-models">Multiscale phase-field modeling</h2>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+  <p><!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides1" src="/images/intercalation/1.png" style="width:100%">
+  <img class="mySlides1" src="/images/intercalation/2.png" style="width:100%">
+  <img class="mySlides1" src="/images/intercalation/3.png" style="width:100%">
+  <img class="mySlides1" src="/images/intercalation/4.png" style="width:100%">
+  <button class="w3-button w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+  <button class="w3-button w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = [1];
+var slideId = ["mySlides1"]
+showDivs(1, 0);
+
+function plusDivs(n, no) {
+  showDivs(slideIndex[no] += n, no);
+}
+
+function showDivs(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
+
+<em>We engineer <u>both</u> material microstructure and material crystallography to enhance battery lifespans.</em></p>
+<p>Batteries are now used in very high volumes of everyday applications such as powering mobile phones, laptops and other portable electronic devices. These batteries are promising candidates for sustainable energy storage, although their use in high energy density applications, like powering electric vehicles, is still a challenge. A key limitation of the battery performance is the structural instability of battery materials with continuous usage and increased energy density requirements. Our central aim is to crystallographically and microstructurally engineer battery materials, such as electrodes, solid-electrolytes, in order to enhance energy storage capacity and lifespan. In our group, we use martensite crystallographic theory and phase-field methods, to design a new generation of <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.3.065404">battery</a> electrodes—which offers minimum volume changes, enhanced conductivity and longer lifespans.</p>
 <section>
   
 </main>
