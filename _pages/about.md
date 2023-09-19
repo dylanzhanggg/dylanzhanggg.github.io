@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style='text-align: justify;'> Welcome to my website! I'm Dylan, an enthusiastic Ph.D. candidate at [Department of Aerospace & Mechanical Engineering](https://ame.usc.edu/), [University of Southern California](https://www.usc.edu/). My research is centered around computational materials, with a primary focus on finite element methods (e.g., phase field modeling), crystallographic theory, and structural failure analysis. </p>
+<p style="text-align: justify;">Welcome to my website! I'm Dylan, an enthusiastic Ph.D. candidate at <a href="https://ame.usc.edu/">Department of Aerospace & Mechanical Engineering</a>, <a href="https://www.usc.edu/">University of Southern California</a>. My research is centered around computational materials, with a primary focus on finite element methods (e.g., phase field modeling), crystallographic theory, and structural failure analysis.</p>
 
 Education
 ======
