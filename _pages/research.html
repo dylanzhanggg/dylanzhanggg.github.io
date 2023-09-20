@@ -228,7 +228,7 @@ sliderJQuery(function( $ ) {
     -webkit-transition: all 0.66s ease;
 }
 
-.slide {
+.slide-2 {
     list-style: none;
     position: relative;
     float: left;
@@ -249,7 +249,7 @@ sliderJQuery(function( $ ) {
     -webkit-transform-style: preserve-3d;
 }
   
-.nav {
+.nav-2 {
     position: relative;
     z-index: 9;
     top: 45%;
@@ -260,7 +260,7 @@ sliderJQuery(function( $ ) {
     -webkit-transition: all 0.66s ease;
 }
 
-.nav:hover {
+.nav-2:hover {
     opacity: 1.0;
 }
 
@@ -278,13 +278,13 @@ sliderJQuery(function( $ ) {
 
 <div id="slide-window-2">
     <ol id="slides-list-2">
-            <li class="slide" style="background-image:url(/images/multiscale_modeling/F1.png);"></li>
-            <li class="slide" style="background-image:url(/images/Talks/F2_v2.png);"></li>
-            <li class="slide" style="background-image:url(https://dylanzhanggg.github.io/images/crystallographic_design/1.png);"></li>
-            <li class="slide" style="background-image:url(https://dylanzhanggg.github.io/images/crystallographic_design/F4.png);"></li>
+            <li class="slide-2" style="background-image:url(/images/multiscale_modeling/F1_v2.png);"></li>
+            <li class="slide-2" style="background-image:url(/images/Talks/USACM2023.jpg);"></li>
+            <li class="slide-2" style="background-image:url(/images/Talks/MRS2022.jpg);"></li>
+            <li class="slide-2" style="background-image:url(/images/Talks/DZhangTMS2022.jpg);"></li>
     </ol>
-    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
-    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+    <span class="nav-2 fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav-2 fa fa-chevron-right fa-3x" id="right"></span>
 </div>
 
 <script>
@@ -294,15 +294,15 @@ sliderJQuery(function( $ ) {
     $.global.total = 0;
 
     $(document).ready(function () {
-        var slideWindowWidth = $('#slide-window').width();
-        var slideCount = $('#slides-list li').length;
+        var slideWindowWidth = $('#slide-window-2').width();
+        var slideCount = $('#slides-list-2 li').length;
         var totalSlidesWidth = slideCount * slideWindowWidth;
 
         $.global.item = 0;
         $.global.total = slideCount;
 
-        $('.slide').css('width', slideWindowWidth + 'px');
-        $('#slides-list').css('width', totalSlidesWidth + 'px');
+        $('.slide-2').css('width', slideWindowWidth + 'px');
+        $('#slides-list-2').css('width', totalSlidesWidth + 'px');
 
         $('#left').click(function () {
             resetAutoSlide();
@@ -337,10 +337,10 @@ sliderJQuery(function( $ ) {
     }
 
     function moveCss(nextSlideId) {
-        var slideWindowWidth = $('#slide-window').width();
+        var slideWindowWidth = $('#slide-window-2').width();
         var margin = slideWindowWidth * nextSlideId;
 
-        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+        $('#slides-list-2').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
 
         $.global.item = nextSlideId;
     }
