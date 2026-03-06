@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-&#127891; **Ph.D. candidate in Mechanical Engineering** 
-  - *University of Southern California* (Aug 2020 - May 2025 (expected))
+&#127891; **Ph.D. in Aerospace & Mechanical Engineering** 
+  - *University of Southern California* (Aug 2020 - May 2025)
   - GPA: 4.0/4.0
     
 &#127891; **M.S. in Chemical Process Equipment**

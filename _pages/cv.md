@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Aerospace & Mechanical Engineering
+  * University of Southern California (2020 - 2025)
+* M.S. in Chemical Process Equipment
+  * Zhejiang University (2017 - 2020)
+* B.S. in Process Equipment and Control Engineering
+  * Dalian University of Technology (2013 - 2017)
 
 Work experience
 ======
