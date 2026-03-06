@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Performance/Simulation/Application Engineer
+  * Caterpillar Inc. (2025 - Present)
+  * Focus: Multi-physics modeling, battery performance/lifetime prediction, CAE for electrified systems
+  * Responsibilities: Physics-informed ML for battery aging, battery architecture design, ABAQUS simulation, MOOSE/COMSOL phase-field modeling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant
+  * University of Southern California (2020 - 2024)
+  * Department of Aerospace & Mechanical Engineering
+  * Focus: Computational materials, finite element methods, phase-field modeling
   
 Skills
 ======

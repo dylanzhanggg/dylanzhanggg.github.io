@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: justify;">Welcome to my website! I'm Dylan, an enthusiastic Ph.D. candidate at <a href="https://ame.usc.edu/">Department of Aerospace & Mechanical Engineering</a>, <a href="https://www.usc.edu/">University of Southern California</a>. My research is centered around computational materials, with a primary focus on finite element methods (e.g., phase field modeling), crystallographic theory, and structural failure analysis.</p>
+<p style="text-align: justify;">Welcome to my website! I'm Dylan, a PhD in Aerospace & Mechanical Engineering from <a href="https://ame.usc.edu/">University of Southern California</a> and a Performance/Simulation/Application Engineer at <a href="https://www.caterpillar.com/">Caterpillar</a>. I specialize in <strong>multi-physics modeling</strong>, <strong>battery performance and lifetime prediction</strong>, and <strong>CAE for electrified and heavy-duty systems</strong>.</p>
+
+<p style="text-align: justify;">My work encompasses physics-informed ML for battery aging and cycle-life prediction, battery cell–module–pack architecture and layout design, and nonlinear structural/thermal-mechanical simulation in ABAQUS. I develop MOOSE- and COMSOL-based phase-field and continuum models that couple electrochemical transport with thermal and mechanical effects to study degradation and voltage behavior in battery materials and systems.</p>
 
 Education
 ======
