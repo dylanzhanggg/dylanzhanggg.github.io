@@ -13,6 +13,8 @@ Education
 ======
 * Ph.D. in Aerospace & Mechanical Engineering
   * University of Southern California (2020 - 2025)
+* M.S. in Computer Science
+  * University of Southern California (2023 - 2025)
 * M.S. in Chemical Process Equipment
   * Zhejiang University (2017 - 2020)
 * B.S. in Process Equipment and Control Engineering
