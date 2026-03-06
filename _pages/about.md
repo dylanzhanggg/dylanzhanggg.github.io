@@ -14,8 +14,10 @@ redirect_from:
 Education
 ======
 &#127891; **Ph.D. in Aerospace & Mechanical Engineering** 
-  - *University of Southern California* (Aug 2020 - May 2025)
-  - GPA: 4.0/4.0
+  - *University of Southern California* (2020 - 2025)
+
+&#127891; **M.S. in Computer Science**
+  - *University of Southern California* (2023 - 2025)
     
 &#127891; **M.S. in Chemical Process Equipment**
   - *Zhejiang University* (Sept 2017 - Jun 2020)
