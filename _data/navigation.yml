@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Work Experience"
+    url: /work-experience/
+
   - title: "Research"
     url: /research/
 
@@ -23,5 +26,3 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
-  - title: "Work Experience"
-    url: /work-experience/
